@@ -1,0 +1,36 @@
+{
+  "name": "chouten-ts-to-js",
+  "version": "0.0.1",
+  "description": "This script will help you build your modules for Chouten",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "ts-node compile.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bilnaa/Chouten-TS-to-JS.git"
+  },
+  "keywords": [
+    "chouten",
+    "ios",
+    "android",
+    "windows",
+    "typescript",
+    "javascript",
+    "json"
+  ],
+  "author": "Chouten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bilnaa/Chouten-TS-to-JS/issues"
+  },
+  "homepage": "https://github.com/Bilnaa/Chouten-TS-to-JS#readme",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.2",
+    "ts-node": "^10.9.1"
+  }
+}
